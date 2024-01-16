@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on exciting projects that involve cutting-edge technologies.
 - 📫 How to reach me: fatimazohraberradi1@gmail.com 
 - ⚡ Fun fact: I once hacked my own website to find security loopholes and ended up making it more secure!
-
+-🔊Passionate about weaving secure and elegant code. I don't just find bugs; I turn them into features. Continuous learner on the journey of fortifying digital realms."💻
 
 <!---
 FatimazhBerradi/FatimazhBerradi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
